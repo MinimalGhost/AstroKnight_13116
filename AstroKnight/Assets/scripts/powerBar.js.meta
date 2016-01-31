@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7391766b4222b48ef9a84eb488e385ce
+timeCreated: 1439256388
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - powerBarEmpty: {fileID: 2800000, guid: 5116f417dbf0041cca9b97dbaf9f8046, type: 3}
+  - powerBarFull: {fileID: 2800000, guid: fdf1d5bd261af4d6f9313a8d6b640898, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
