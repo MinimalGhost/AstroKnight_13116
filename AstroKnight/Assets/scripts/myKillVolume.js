@@ -13,6 +13,7 @@ function OnTriggerEnter (c : Collider) {
     
     if(hazardHit == 1){
 		Debug.Log("THOU HATH PERISHED");
-		
+//		yield WaitForSeconds(0.5);  // or however long you want it to wait
+		Application.LoadLevel(Application.loadedLevel);
 	}
 }

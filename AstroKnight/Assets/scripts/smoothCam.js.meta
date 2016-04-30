@@ -1,10 +1,13 @@
 fileFormatVersion: 2
 guid: 1e5498c076a5a438f85fc9bbb60ba45b
-timeCreated: 1437934504
+timeCreated: 1454873655
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - cameraTarget: {instanceID: 0}
+  - player: {fileID: 167326, guid: c250c99c108584e57afaafee3d24119d, type: 2}
+  - target: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

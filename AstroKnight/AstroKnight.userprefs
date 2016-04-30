@@ -1,12 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/parenting.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/myBody.js">
     <Files>
-      <File FileName="Assets/scripts/parenting.js" Line="33" Column="34" />
+      <File FileName="Assets/scripts/myBody.js" Line="54" Column="40" />
+      <File FileName="Assets/scripts/powerMax.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/parenting.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/mySwitch.js" Line="1" Column="1" />
-      <File FileName="Assets/scripts/myBody.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/myAttractor.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/myKillVolume.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/powerBar.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/smoothCam.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/smoothLookAt.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
