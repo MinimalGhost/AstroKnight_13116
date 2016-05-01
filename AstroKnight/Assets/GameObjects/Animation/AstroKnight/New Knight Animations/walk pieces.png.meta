@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 5e5b53c2a6573e840b981d988aa33db6
+timeCreated: 1462045667
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: feather
+    21300002: main_body
+    21300004: right_leg1
+    21300006: right_leg2
+    21300008: right_leg3
+    21300010: walk pieces_5
+    21300012: walk pieces_6
+    21300014: left_leg1
+    21300016: right_arm1
+    21300018: walk pieces_9
+    21300020: left_leg2
+    21300022: right_arm2
+    21300024: walk pieces_12
+    21300026: walk pieces_13
+    21300028: left_leg3
+    21300030: walk pieces_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: feather
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 830
+        width: 455
+        height: 499
+      alignment: 9
+      pivot: {x: .875874639, y: .899853408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: main_body
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 867
+        width: 592
+        height: 929
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg1
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1284
+        width: 103
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg2
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1120
+        width: 116
+        height: 149
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg3
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1010
+        width: 145
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk pieces_5
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1066
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk pieces_6
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1025
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_leg1
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 752
+        width: 68
+        height: 77
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_arm1
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 760
+        width: 64
+        height: 76
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk pieces_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 823
+        width: 93
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 3, w: 0}
+    - name: left_leg2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 508
+        width: 91
+        height: 204
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_arm2
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 517
+        width: 92
+        height: 203
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk pieces_12
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 643
+        width: 118
+        height: 163
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk pieces_13
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 588
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_leg3
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 478
+        width: 150
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk pieces_15
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 478
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

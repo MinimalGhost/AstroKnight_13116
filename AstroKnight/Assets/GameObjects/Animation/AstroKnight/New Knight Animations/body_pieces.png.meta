@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 75f4a7f7ee656c24ca7206167d397afb
+timeCreated: 1454283757
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: feather
+    21300002: head
+    21300004: right_eye
+    21300006: left_eye
+    21300008: right_tie
+    21300010: left_tie
+    21300012: body_pieces_7
+    21300014: cape
+    21300016: body
+    21300018: left_arm_top
+    21300020: left_arm_bottom
+    21300022: visor
+    21300024: right_foot
+    21300026: left_leg_top
+    21300028: right_leg_top
+    21300030: right_arm_top
+    21300032: body_pieces_20
+    21300034: body_pieces_22
+    21300036: right_arm_bottom
+    21300038: left_foot
+    21300040: left_leg_bot
+    21300042: right_leg_bot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: feather
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 304
+        height: 330
+      alignment: 9
+      pivot: {x: .973848939, y: .847947001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 535
+        width: 411
+        height: 365
+      alignment: 9
+      pivot: {x: .525397599, y: .0481452011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_eye
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 880
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_eye
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 851
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_tie
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 797
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_tie
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 744
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body_pieces_7
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 649
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cape
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 388
+        height: 198
+      alignment: 9
+      pivot: {x: .516141891, y: .789955676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 265
+        width: 281
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_arm_top
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 503
+        width: 76
+        height: 85
+      alignment: 9
+      pivot: {x: .7334916, y: .770170331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_arm_bottom
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 325
+        width: 88
+        height: 161
+      alignment: 9
+      pivot: {x: .808407187, y: .901976049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: visor
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 234
+        height: 274
+      alignment: 9
+      pivot: {x: .107444271, y: .103797279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_foot
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 209
+        width: 106
+        height: 59
+      alignment: 9
+      pivot: {x: .169108272, y: .639878869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_leg_top
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 174
+        width: 67
+        height: 70
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg_top
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 174
+        width: 67
+        height: 70
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_arm_top
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 238
+        width: 73
+        height: 77
+      alignment: 9
+      pivot: {x: .256913692, y: .689788818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body_pieces_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 148
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body_pieces_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 155
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_arm_bottom
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 46
+        width: 72
+        height: 165
+      alignment: 9
+      pivot: {x: .326026917, y: .873252094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_foot
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 33
+        width: 106
+        height: 59
+      alignment: 9
+      pivot: {x: .879552603, y: .762272835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_leg_bot
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 45
+        width: 77
+        height: 124
+      alignment: 9
+      pivot: {x: .741154671, y: .8743729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg_bot
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 49
+        width: 77
+        height: 124
+      alignment: 9
+      pivot: {x: .285641372, y: .807817638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
