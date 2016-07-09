@@ -9,7 +9,7 @@ public var onPlanet = true;
 var stateIdle 	= 0;
 var stateWalk 	= 1;
 var stateJump 	= 2;
-var stateFly 	= 3;
+var stateLaunch = 3;
 var stateTurn 	= 4;
 
 var currentAnimState = stateIdle;
@@ -27,11 +27,13 @@ var currentAnimState = stateIdle;
 	function Update () {
 		moveDirection = new Vector2 (Input.GetAxis ("Horizontal"), Input.GetAxis ("Vertical")).normalized;
 
-		if (Input.GetKey(KeyCode.RightArrow)) {
-			changeState(stateWalk);
+		if (Input.GetKeyDown(KeyCode.Space)) {
+			changeState(stateJump);
 
-		} else {
-			changeState(stateIdle);
+		}
+
+		if (Input.GetKeyUp(KeyCode.Space)) {
+			changeState(stateLaunch);
 		}
 	}
 
@@ -44,15 +46,21 @@ var currentAnimState = stateIdle;
         return;
  
         switch (state) {
- 
-        case stateWalk:
-            anim.SetInteger ("state", stateWalk);
-            break;
- 
-        case stateIdle:
-            anim.SetInteger ("state", stateIdle);
-            break;
- 
+    
+	        case stateIdle:
+	        	anim.SetInteger ("state", stateIdle);
+	        	break;
+
+	        case stateJump:
+	            anim.SetInteger ("state", stateJump);
+	            break;
+
+	        case stateLaunch:
+	        	anim.SetInteger ("state", stateLaunch);
+	        	break;
+
+ 			case stateTurn:
+ 				anim.SetInteger ("state", stateTurn);
         }
  
         currentAnimState = state;

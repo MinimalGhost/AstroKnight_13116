@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{C4C40BBD-6BEC-2840-E11C-F74F9F301C16}") = "AstroKnight", "Assembly-CSharp.csproj", "{0D00F153-39CF-D57A-FD44-A4674937ADC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{0D00F153-39CF-D57A-FD44-A4674937ADC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D00F153-39CF-D57A-FD44-A4674937ADC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D00F153-39CF-D57A-FD44-A4674937ADC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D00F153-39CF-D57A-FD44-A4674937ADC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

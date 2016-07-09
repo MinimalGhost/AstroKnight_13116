@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/protoAnimStaging.unity
+- path: Assets/scenes/animationStaging.unity
   isLoaded: 1
   isActive: 1

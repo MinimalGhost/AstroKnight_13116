@@ -1,9 +1,20 @@
 ﻿#pragma strict
 
 public var turnSpeed : float = 100f;
+var anim : Animator;
+var stateIdle 	= 0;
+var stateWalk 	= 1;
+var stateJump 	= 2;
+var stateLaunch = 3;
+var stateTurn 	= 4;
 
-function Update ()
-{
+var currentAnimState = stateIdle;
+
+function Start() {
+	anim = GameObject.Find("Astroknight_animations").GetComponent.<Animator>();
+}
+
+function Update () {
 //    if(Input.GetKey(KeyCode.UpArrow))
 //        transform.Translate(Vector3.forward * moveSpeed * Time.deltaTime);
 //    
