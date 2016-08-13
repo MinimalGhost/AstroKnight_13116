@@ -1,5 +1,4 @@
-﻿//By Joseph Giordano.
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 //Attach this class to the GameObject you want the arrow to be pointing at.

@@ -13,7 +13,7 @@ function OnTriggerEnter (c : Collider) {
     }
     
     if(peepleHit == 1){
-		Debug.Log("THOU HATH FED THINE KITTEH");
+		Debug.Log("CHAMPION OF THE PEEPLE");
 //		yield WaitForSeconds(0.5);  // or however long you want it to wait
 		Application.LoadLevel(nextLevel);
 		nextLevel++;

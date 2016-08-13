@@ -16,4 +16,5 @@ function OnTriggerEnter (c : Collider) {
 //		yield WaitForSeconds(0.5);  // or however long you want it to wait
 		Application.LoadLevel(Application.loadedLevel);
 	}
+
 }
