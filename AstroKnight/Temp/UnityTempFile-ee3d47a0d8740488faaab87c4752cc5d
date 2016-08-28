@@ -88,9 +88,10 @@
 -r:'/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll'
 -i:UnityEditor
 'Assets/scripts/asteroidRotate.js'
+'Assets/scripts/initializeFancyFat.js'
 'Assets/scripts/myAttractor.js'
 'Assets/scripts/myBody.js'
-'Assets/scripts/myKillVolum.js'
+'Assets/scripts/myKillVolume.js'
 'Assets/scripts/mySwitch.js'
 'Assets/scripts/myWinVolume.js'
 'Assets/scripts/parenting.js'

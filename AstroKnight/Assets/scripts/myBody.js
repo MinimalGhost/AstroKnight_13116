@@ -60,3 +60,10 @@ function FixedUpdate () {
     }
    
 }
+
+function OnTriggerEnter( other : Collider ) {
+    if (other.tag == "food") {
+        //switch arrow to peeple
+        Destroy(other.gameObject);
+    }
+}

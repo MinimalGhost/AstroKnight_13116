@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/animationStaging.unity
+- path: Assets/scenes/winStaging.unity
   isLoaded: 1
   isActive: 1

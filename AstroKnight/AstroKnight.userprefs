@@ -1,18 +1,21 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/myAttractor.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/initializeFancyFat.js">
     <Files>
       <File FileName="Assets/scripts/myBody.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/powerMax.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/parenting.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/mySwitch.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/myAttractor.js" Line="1" Column="1" />
-      <File FileName="Assets/scripts/myKillVolume.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/powerBar.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/smoothCam.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/smoothLookAt.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/playerMovement.js" Line="1" Column="1" />
       <File FileName="Assets/scripts/playerRotation.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/ScreenIndicator.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/myKillVolume.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/myWinVolume.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/initializeFancyFat.js" Line="7" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
