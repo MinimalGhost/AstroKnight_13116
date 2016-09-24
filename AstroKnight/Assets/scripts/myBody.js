@@ -61,9 +61,23 @@ function FixedUpdate () {
    
 }
 
+var fancyFatCollected : int;
+var nextLevel = 2;
+
+//Collecting the food
 function OnTriggerEnter( other : Collider ) {
     if (other.tag == "food") {
+    	fancyFatCollected++;
+    	Debug.Log(fancyFatCollected);
         //switch arrow to peeple
         Destroy(other.gameObject);
+
+    }
+
+    if( other.tag == "peeple" && fancyFatCollected ==  1) {
+  		Debug.Log("CHAMPION OF THE PEEPLE");
+//		yield WaitForSeconds(0.5);  // or however long you want it to wait
+		Application.LoadLevel(nextLevel);
+		nextLevel++;      
     }
 }
